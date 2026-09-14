@@ -6,7 +6,7 @@ criarCartao(
 
 criarCartao(
     'Programação',
-    'O que é Python?',
+    'O que é Python? 🤗',
     'O Python é uma linguagem de programação'
 )
 
