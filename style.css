@@ -39,5 +39,9 @@ body{
 .cartao__conteudo__resposta p{
     color: var(--verso-cartao);
     font-weight: 700;
+    
+}
 
+.cartao.active .cartao__conteudo{
+    transform: rotate(180deg);
 }
