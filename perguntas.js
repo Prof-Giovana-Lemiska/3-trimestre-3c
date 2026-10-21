@@ -1,4 +1,4 @@
-criarartao(
+criaCartao(
     'Categoria',
     'Pergunta',
     'Resposta'
