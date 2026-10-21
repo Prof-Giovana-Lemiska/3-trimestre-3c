@@ -1,34 +1,34 @@
-criarCartao(
+criarartao(
     'Categoria',
     'Pergunta',
     'Resposta'
 )
 
-criarCartao(
+criaCartao(
     'Programação',
     'O que é Python? 🤗',
     'O Python é uma linguagem de programação'
 )
 
-criarCartao(
+criaCartao(
     'Geografia',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
-criarCartao(
+criaCartao(
     'Programação',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-criarCartao(
+criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
 
-criarCartao(
+criaCartao(
     'Lingua espanhola',
     'Como se diz oi em Espanhol?',
     'Oi em ingles é Holla (Ola)'
